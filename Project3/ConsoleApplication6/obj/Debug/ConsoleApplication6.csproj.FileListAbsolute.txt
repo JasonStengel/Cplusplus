@@ -1,0 +1,12 @@
+c:\users\jason\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+c:\users\jason\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.csprojResolveAssemblyReference.cache
+c:\users\jason\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+c:\users\jason\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+c:\users\jason\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+c:\users\jason\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\Project3\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\Project3\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\Project3\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\Project3\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\Project3\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\Project3\ConsoleApplication6\obj\Debug\ConsoleApplication6.csprojResolveAssemblyReference.cache

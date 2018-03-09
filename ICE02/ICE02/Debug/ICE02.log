@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\jason\documents\visual studio 2015\projects\ice02\ice02\source.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jason\documents\visual studio 2015\projects\ice02\ice02\source.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ICE02.vcxproj -> c:\users\jason\documents\visual studio 2015\Projects\ICE02\Debug\ICE02.exe
+  ICE02.vcxproj -> c:\users\jason\documents\visual studio 2015\Projects\ICE02\Debug\ICE02.pdb (Full PDB)

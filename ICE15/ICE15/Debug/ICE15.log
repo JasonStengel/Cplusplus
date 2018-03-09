@@ -1,0 +1,4 @@
+﻿  ICE15A.cpp
+c:\users\jason\documents\visual studio 2015\projects\ice15\ice15\ice15a.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  ICE15.vcxproj -> C:\Users\Jason\documents\visual studio 2015\Projects\ICE15\Debug\ICE15.exe
+  ICE15.vcxproj -> C:\Users\Jason\documents\visual studio 2015\Projects\ICE15\Debug\ICE15.pdb (Full PDB)

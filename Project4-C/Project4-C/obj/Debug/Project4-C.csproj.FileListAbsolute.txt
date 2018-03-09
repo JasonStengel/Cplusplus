@@ -1,0 +1,6 @@
+c:\users\jason\documents\visual studio 2015\Projects\Project4-C\Project4-C\bin\Debug\Project4-C.exe.config
+c:\users\jason\documents\visual studio 2015\Projects\Project4-C\Project4-C\bin\Debug\Project4-C.exe
+c:\users\jason\documents\visual studio 2015\Projects\Project4-C\Project4-C\bin\Debug\Project4-C.pdb
+c:\users\jason\documents\visual studio 2015\Projects\Project4-C\Project4-C\obj\Debug\Project4-C.csprojResolveAssemblyReference.cache
+c:\users\jason\documents\visual studio 2015\Projects\Project4-C\Project4-C\obj\Debug\Project4-C.exe
+c:\users\jason\documents\visual studio 2015\Projects\Project4-C\Project4-C\obj\Debug\Project4-C.pdb

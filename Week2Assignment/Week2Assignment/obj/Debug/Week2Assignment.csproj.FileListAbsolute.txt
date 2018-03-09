@@ -1,0 +1,6 @@
+c:\users\jason\documents\visual studio 2015\Projects\Week2Assignment\Week2Assignment\bin\Debug\Week2Assignment.exe.config
+c:\users\jason\documents\visual studio 2015\Projects\Week2Assignment\Week2Assignment\bin\Debug\Week2Assignment.exe
+c:\users\jason\documents\visual studio 2015\Projects\Week2Assignment\Week2Assignment\bin\Debug\Week2Assignment.pdb
+c:\users\jason\documents\visual studio 2015\Projects\Week2Assignment\Week2Assignment\obj\Debug\Week2Assignment.exe
+c:\users\jason\documents\visual studio 2015\Projects\Week2Assignment\Week2Assignment\obj\Debug\Week2Assignment.pdb
+c:\users\jason\documents\visual studio 2015\Projects\Week2Assignment\Week2Assignment\obj\Debug\Week2Assignment.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\jason\documents\visual studio 2015\Projects\calculateGradesApp\calculateGradesApp\bin\Debug\calculateGradesApp.exe.config
+c:\users\jason\documents\visual studio 2015\Projects\calculateGradesApp\calculateGradesApp\bin\Debug\calculateGradesApp.exe
+c:\users\jason\documents\visual studio 2015\Projects\calculateGradesApp\calculateGradesApp\bin\Debug\calculateGradesApp.pdb
+c:\users\jason\documents\visual studio 2015\Projects\calculateGradesApp\calculateGradesApp\obj\Debug\calculateGradesApp.csprojResolveAssemblyReference.cache
+c:\users\jason\documents\visual studio 2015\Projects\calculateGradesApp\calculateGradesApp\obj\Debug\calculateGradesApp.Form1.resources
+c:\users\jason\documents\visual studio 2015\Projects\calculateGradesApp\calculateGradesApp\obj\Debug\calculateGradesApp.Properties.Resources.resources
+c:\users\jason\documents\visual studio 2015\Projects\calculateGradesApp\calculateGradesApp\obj\Debug\calculateGradesApp.csproj.GenerateResource.Cache
+c:\users\jason\documents\visual studio 2015\Projects\calculateGradesApp\calculateGradesApp\obj\Debug\calculateGradesApp.exe
+c:\users\jason\documents\visual studio 2015\Projects\calculateGradesApp\calculateGradesApp\obj\Debug\calculateGradesApp.pdb

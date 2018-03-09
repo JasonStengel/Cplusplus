@@ -1,0 +1,6 @@
+c:\users\jason\documents\visual studio 2015\Projects\FlightCalculator\FlightCalculator\bin\Debug\FlightCalculator.exe.config
+c:\users\jason\documents\visual studio 2015\Projects\FlightCalculator\FlightCalculator\bin\Debug\FlightCalculator.exe
+c:\users\jason\documents\visual studio 2015\Projects\FlightCalculator\FlightCalculator\bin\Debug\FlightCalculator.pdb
+c:\users\jason\documents\visual studio 2015\Projects\FlightCalculator\FlightCalculator\obj\Debug\FlightCalculator.csprojResolveAssemblyReference.cache
+c:\users\jason\documents\visual studio 2015\Projects\FlightCalculator\FlightCalculator\obj\Debug\FlightCalculator.exe
+c:\users\jason\documents\visual studio 2015\Projects\FlightCalculator\FlightCalculator\obj\Debug\FlightCalculator.pdb

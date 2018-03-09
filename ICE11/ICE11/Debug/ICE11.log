@@ -1,0 +1,3 @@
+﻿  ICE11A.cpp
+c:\users\jason\documents\visual studio 2015\projects\ice11\ice11\ice11a.cpp(41): warning C4101: 'uTripMiles': unreferenced local variable
+c:\users\jason\documents\visual studio 2015\projects\ice11\ice11\ice11a.cpp(50): error C4700: uninitialized local variable 'uGetOdometer' used

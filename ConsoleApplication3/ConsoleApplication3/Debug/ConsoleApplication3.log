@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\jason\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\main.cpp(74): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+c:\users\jason\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\main.cpp(79): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+  ConsoleApplication3.vcxproj -> C:\Users\Jason\Documents\Visual Studio 2015\Projects\ConsoleApplication3\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> C:\Users\Jason\Documents\Visual Studio 2015\Projects\ConsoleApplication3\Debug\ConsoleApplication3.pdb (Full PDB)
